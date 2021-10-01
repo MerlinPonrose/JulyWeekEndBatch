@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39238" started-at="2021-09-30T05:54:42Z" finished-at="2021-09-30T05:55:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39238" started-at="2021-09-30T05:54:42Z" finished-at="2021-09-30T05:55:21Z">
+      <class name="com.data.test.Registration">
+        <test-method status="PASS" signature="loadPrp()[pri:0, instance:com.data.test.Registration@548e7350]" name="loadPrp" is-config="true" duration-ms="20" started-at="2021-09-30T05:54:42Z" finished-at="2021-09-30T05:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPrp -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.data.test.Registration@548e7350]" name="launchBrowser" is-config="true" duration-ms="34097" started-at="2021-09-30T05:54:42Z" finished-at="2021-09-30T05:55:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="register()[pri:0, instance:com.data.test.Registration@548e7350]" name="register" duration-ms="5078" started-at="2021-09-30T05:55:16Z" finished-at="2021-09-30T05:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- com.data.test.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
